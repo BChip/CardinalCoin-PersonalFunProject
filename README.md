@@ -1,3 +1,3 @@
-CardinalCoin - An SHA256 PoW Coin!
+CardinalCoin - A SHA256 PoW Coin
 
 
